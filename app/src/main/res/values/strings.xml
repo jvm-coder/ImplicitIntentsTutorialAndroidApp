@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+
+    <string name="edittextUrl">http://developer.anroid.com</string>
+    <string name="buttonUrl">Open Website</string>
+
+    <string name="edittextLoc">Golden Gate Bridge</string>
+    <string name="buttonLoc">Open Location</string>
+    
+    <string name="edittextShare">\'Twas brilling; and the slithy toves</string>
+    <string name="buttonShare">Share This Text</string>
+    <string name="share_text_with">Share this text via :</string>
+</resources>
